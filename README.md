@@ -26,4 +26,4 @@ Kairy is about giving you a place to capture and collect the things you find all
 - React and Typescript for Frontend
 - Scss for styling
 
-Want to Contribute? See [CONTRIBUTION.md](CONTRIBUTION.md)
+
